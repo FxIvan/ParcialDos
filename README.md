@@ -98,6 +98,12 @@ TOTAL: $65500
 4. Presioná **"GENERAR COMPROBANTES"** para ver los resultados.
 
 ---
+## 🧐 Resultados
+
+![image](https://github.com/user-attachments/assets/57dace08-a7d0-46de-b5c4-37943f7daee6)
+![image](https://github.com/user-attachments/assets/a2f211e4-a3cc-4a60-9d5b-e9845dcc0285)
+
+
 
 
 
