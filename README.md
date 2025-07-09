@@ -20,6 +20,7 @@ Este proyecto consiste en una aplicación de escritorio desarrollada en **C# y W
 ## 📁 Archivos de entrada
 
 ### CABECERA.txt
+```
 Nro Comprobante;Razon Social;Fecha
 1000101;Bar Unico;01/10/2022
 1000110;El Ñandú;01/10/2022
@@ -27,8 +28,9 @@ Nro Comprobante;Razon Social;Fecha
 1000120;La pureza;02/10/2022
 1000122;Carnes La Lonja;03/10/2022
 1000125;Bazar Gaspar;03/10/2022
-
+```
 ### DETALLE.txt
+```
 Nro Comprobante;Descripcion;Importe
 1000101;Servicio de Mantenimiento Software;10500
 1000101;Antivirus;5500
@@ -45,7 +47,7 @@ Nro Comprobante;Descripcion;Importe
 1000125;Antivirus;5500
 1000125;Reparacion PC;45000
 1000125;BackUp de Datos;2500
-
+```
 ---
 
 ## 💻 Interfaz de usuario (GUI)
@@ -59,7 +61,7 @@ Nro Comprobante;Descripcion;Importe
 ## ✅ Resultado esperado
 
 Ejemplo del contenido que se muestra en el `ListBox` tras presionar "GENERAR COMPROBANTES":
-
+```
 Comprobante: 1000101
 Razón Social: Bar Unico
 Fecha: 01/10/2022
@@ -74,9 +76,8 @@ Fecha: 01/10/2022
 - Instalacion de RED - $55000
 - Instalacion de Software - $10500
 TOTAL: $65500
-
 ...
-
+```
 
 ---
 
